@@ -5,10 +5,15 @@
 # Installation
     1. git clone https://github.com/machine1337/anonbrowse
     2. cd anonbrowser && chmod +x anon.sh
-    
+ 
+# How To Use:
+
+ https://www.youtube.com/watch?v=Mkka7rOaRhY
+ 
 # Usage
 
     sudo bash anon.sh
+ 
     
 # Features:
     1. Very Easy Tool To Change IP's In Seconds.
